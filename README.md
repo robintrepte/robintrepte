@@ -1,5 +1,7 @@
 # Hi, I'm Robin 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/robintrepte/) [![Malt](https://img.shields.io/badge/Malt-F37421?style=for-the-badge)](https://www.malt.de/profile/robintrepte) [![Email Icon](https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&logo=minutemailer&logoColor=333333)](mailto:robin@twentyfirst.media)
+
 AI-first founder building scalable systems.
 **[Twentyfirst Media Group](https://twentyfirst.media/)** — AI, security & infrastructure. One partner, one goal.
 
