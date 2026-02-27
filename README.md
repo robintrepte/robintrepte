@@ -3,6 +3,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/robintrepte/) [![Malt](https://img.shields.io/badge/Malt-F37421?style=for-the-badge)](https://www.malt.de/profile/robintrepte) [![Email Icon](https://img.shields.io/badge/%20-%20-FFFFFF?style=for-the-badge&logo=minutemailer&logoColor=333333)](mailto:robin@twentyfirst.media)
 
 AI-first founder building scalable systems.
+*I help companies ship AI-powered products and keep their systems secure, reliable, and scalable.*
+
+**Based in** Hamburg, Germany · Dubai
+
 **[Twentyfirst Media Group](https://twentyfirst.media/)** — AI, security & infrastructure. One partner, one goal.
 
 ## 🚀 What I Do
@@ -27,6 +31,8 @@ AI-first founder building scalable systems.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Termius](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+🌱 Always learning new tools, new stacks, new solutions.
 
 ---
 
